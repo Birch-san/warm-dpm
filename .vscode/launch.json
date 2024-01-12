@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Python: Play",
+      "type": "python",
+      "request": "launch",
+      "module": "script.play",
+      "justMyCode": true
+    }
+  ]
+}
